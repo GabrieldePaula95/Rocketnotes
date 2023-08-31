@@ -9,6 +9,7 @@ O Movie Notes é uma aplicação que permite aos usuários criarem notas para fi
 - Autenticação de usuário.
 - Edite seu perfil, altere nome, email, inclua seu avatar, altere sua senha.
 - Interface intuitiva e responsiva.
+- [Crie suas notas!!](https://movienote1.netlify.app/)
 
 ## Tecnologias Utilizadas
 ![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,js)
