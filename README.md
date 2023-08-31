@@ -1,15 +1,15 @@
-# Movie Notes
+# Rocket Notes
 
-O Movie Notes é uma aplicação que permite aos usuários criarem notas para filmes, dando-lhes uma avaliação de 0 a 5. A aplicação é construída utilizando tecnologias modernas, com o backend desenvolvido em Node.js usando SQLite e Knex para o banco de dados, e o frontend construído com React.js e Styled Components. Além disso, o aplicativo oferece recursos de autenticação de usuário, edição de perfil e upload de avatares.
+O Movie Notes é uma aplicação que permite aos usuários criarem notas de estudo. A aplicação é construída utilizando tecnologias modernas, com o backend desenvolvido em Node.js usando SQLite e Knex para o banco de dados, e o frontend construído com React.js e Styled Components. Além disso, o aplicativo oferece recursos de autenticação de usuário, edição de perfil e upload de avatares.
 
 ## Funcionalidades
 
-- Crie notas explicativas para filmes, fornecendo detalhes e avaliações.
-- Avalie filmes em uma escala de 0 a 5.
+- Crie notas de estudo.
+- Adicione suas tags e links úteis.
 - Autenticação de usuário.
 - Edite seu perfil, altere nome, email, inclua seu avatar, altere sua senha.
 - Interface intuitiva e responsiva.
-- [Cadastre-se e dê sua nota para os filmes!!](https://movienote1.netlify.app/)
+- [Cadastre-se e comece criar suas notas de estudos!!](https://rocketnotes95.netlify.app/)
 
 ## Tecnologias Utilizadas
 ![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,js)
@@ -32,7 +32,7 @@ O Movie Notes é uma aplicação que permite aos usuários criarem notas para fi
 
 ## Capturas de Tela
 
-https://github.com/GabrieldePaula95/Rocketnotes/assets/118303544/aab9e940-2604-40ce-a47f-b126f068c8e1
+https://github.com/GabrieldePaula95/Rocketnotes/assets/118303544/1ecaa552-8696-4934-b3fd-73cb32e8f20c
 
 ## Contribuição
 
@@ -43,5 +43,5 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE pa
 
 ## Obrigado por ler
 
-Esperamos que o Movie Notes App seja uma ferramenta útil para os amantes de cinema que desejam manter notas e avaliações organizadas. Sinta-se à vontade para explorar, usar e contribuir para o projeto!
+Esperamos que o Rocket Notes App seja uma ferramenta útil para manter suas notas de estudos organizadas. Sinta-se à vontade para explorar, usar e contribuir para o projeto!
 
