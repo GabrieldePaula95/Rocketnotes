@@ -64,7 +64,7 @@ export function Details(){
                   {
                     data.links.map(link => (
                       <li key={String(link.id)}>
-                        <a href={link.url} target="_blank">
+                        <a href={link.url.startsWith("http") ? link.url : `http://${link.url}`} target="_blank">
                           {link.url}
                         </a>
                       </li>
