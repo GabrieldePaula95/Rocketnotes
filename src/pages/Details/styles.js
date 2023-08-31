@@ -18,7 +18,7 @@ export const Container = styled.div`
     }
 `;
 
-export const Links = styled.ul`
+export const Links = styled.link`
     list-style: none;
 
     > li {
