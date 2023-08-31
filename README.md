@@ -11,7 +11,6 @@ O Movie Notes é uma aplicação que permite aos usuários criarem notas para fi
 - Interface intuitiva e responsiva.
 
 ## Tecnologias Utilizadas
-
 ![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,js)
 
 ### Backend
@@ -32,7 +31,7 @@ O Movie Notes é uma aplicação que permite aos usuários criarem notas para fi
 
 ## Capturas de Tela
 
-<video src="./src/assets/20230831_155353.mp4">
+https://github.com/GabrieldePaula95/Rocketnotes/assets/118303544/aab9e940-2604-40ce-a47f-b126f068c8e1
 
 ## Contribuição
 
